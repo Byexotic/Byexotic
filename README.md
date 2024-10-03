@@ -1,5 +1,7 @@
 <h1 align="center">Hi 🙋‍♂️, I'm Exotic</h1>
 <h3 align="center">Debugging: My Favorite Life 🤷‍♂️</h3>
+<img src="https://cdn.discordapp.com/attachments/1290751512208736316/1291437071730479185/c1fc4ac024c429b6631cfdedd1e1e01c.webp?ex=670017ff&is=66fec67f&hm=3bcb4514b2146233f66603080910d2f22c7cc89b7a8d460f48f3d88349c8a318&" width= "450px" align= "right" alt="">
+
 
 - 🌱 I’m currently learning **Golang And Devops**
 
