@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I thought I was a pro until I met a ‘Hello World’ bug.**
 
-<p align="left">🌐 Connect with me:</p>
+<h3 align="left">🌐 Connect with me:</h3>
 
 ###
 
