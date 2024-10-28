@@ -1,10 +1,9 @@
 <h1 align="center">💫 About Me</h1>
 <h3 align="center">Debugging: My Favorite Life 🤷‍♂️</h3>
-<img src="https://cdn.discordapp.com/attachments/1290751512208736316/1291437071730479185/c1fc4ac024c429b6631cfdedd1e1e01c.webp?ex=6711e43f&is=671092bf&hm=753c3a59f5322fcc1bc7237658fb2c30174a7fe6049e282c9ee0dbac5cbe4257&" width= "200px" align= "right" alt="logo">
+
 
 
 - 🌱 I’m currently learning **Golang And Devops**
-- 😊 Pronouns: **He/Him**
 - 💻 Interested In **Web Development,Cybersecurity,CTFs,Virtual Reality**
 - 📫 How to reach me **byexoticx@gmail.com**
 - ⚡ Fun fact **I thought I was a pro until I met a ‘Hello World’ bug.**
